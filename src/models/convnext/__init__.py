@@ -1,0 +1,1 @@
+from models.convnext.lightning_module import ConvnextBinaryLightningModule

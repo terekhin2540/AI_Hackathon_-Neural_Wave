@@ -1,0 +1,1 @@
+from models.swin.lightning_module import SwinBinaryLightningModule
